@@ -20,3 +20,5 @@ IP-CIDR,62.212.72.247/32,no-resolve
 IP-CIDR,62.212.88.138/32,no-resolve
 IP-CIDR,5.188.71.89,no-resolve
 IP-CIDR,62.212.88.146,no-resolve
+IP-CIDR,5.188.71.77,no-resolve
+IP-CIDR,62.212.88.148,no-resolve
