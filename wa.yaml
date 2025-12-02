@@ -1,13 +1,14 @@
 payload:
-  - DOMAIN,ac-prp-ap.codefusion.technology
-  - DOMAIN,ac-survey.codefusion.technology
-  - DOMAIN,mrgs.my.games
-  - DOMAIN,steelseries.com
-  - DOMAIN,updates.a-volute.com
-  - DOMAIN,void.steelseries.com
-  - DOMAIN,ac-rep.codefusion.technology
-  - DOMAIN,ac-trg-1-16-2.codefusion.technology
-  - DOMAIN,wr-appmetr.pixdata.ae
-  - DOMAIN,gpwarrobots.pixapi.net
-  - DOMAIN,inbound.appmetr.com
-  - DOMAIN,cf-cdn.pixapi.net
+- DOMAIN,ac-prp-ap.codefusion.technology
+- DOMAIN,ac-survey.codefusion.technology
+- DOMAIN,mrgs.my.games
+- DOMAIN,steelseries.com
+- DOMAIN,updates.a-volute.com
+- DOMAIN,void.steelseries.com
+- DOMAIN,ac-rep.codefusion.technology
+- DOMAIN,ac-trg-1-16-2.codefusion.technology
+- DOMAIN,wr-appmetr.pixdata.ae
+- DOMAIN,gpwarrobots.pixapi.net
+- DOMAIN,inbound.appmetr.com
+- DOMAIN,cf-cdn.pixapi.net
+
